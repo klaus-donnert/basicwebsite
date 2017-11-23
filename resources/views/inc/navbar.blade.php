@@ -1,5 +1,5 @@
 <nav class="navbar navbar-inverse">
-      <a class="navbar-brand" href="/">Basic</a>
+      <a class="navbar-brand" href="/">Acme</a>
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="nav navbar-nav">
           <li class="nav-item">
