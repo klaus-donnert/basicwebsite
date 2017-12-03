@@ -11,5 +11,6 @@
     I believe in learning by doing so, I built them all and hosted them on my server. Quite honestly, Laravel is
     a sweet MVC framework. It takes care of the plumbing so that I can spend my time working on my code rather
     than sql etc.
+    
 </p>
 @endsection
