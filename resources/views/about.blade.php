@@ -1,5 +1,15 @@
 @extends('layouts.app')
 @section('content')
 <h1>About</h1>
-<p>t is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+<p>
+    My name is Klaus Donnert. This website is an example of some of the work that I can do.
+    There is nothing really fancy here, just some demo sites to showcase some of my work.
+    This site is built with Laravel 5.5 on a small LEMP server hosted in the cloud at Digitalocean.
+    It uses Laravel Forge to pull updates from Github. The source code is located at
+    <a href="https://github.com/klaus-donnert/basicwebsite">https://github.com/klaus-donnert/basicwebsite</a>.
+    It was a part of a set of projects in the Udemy course "projects in laravel learn laravel building 10 projects".
+    I believe in learning by doing so, I built them all and hosted them on my server. Quite honestly, Laravel is
+    a sweet MVC framework. It takes care of the plumbing so that I can spend my time working on my code rather
+    than sql etc.
+</p>
 @endsection
