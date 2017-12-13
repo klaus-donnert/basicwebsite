@@ -9,8 +9,8 @@
     <a href="https://github.com/klaus-donnert/basicwebsite">https://github.com/klaus-donnert/basicwebsite</a>.
     It was a part of a set of projects in the Udemy course "projects in laravel learn laravel building 10 projects".
     I believe in learning by doing so, I built them all and hosted them on my server. Quite honestly, Laravel is
-    a sweet MVC framework. It takes care of the plumbing so that I can spend my time working on my code rather
-    than sql etc.
-    
+    a sweet MVC framework. It takes care most of the plumbing so that I can spend my time working on my app code rather
+    than figuring out the sql, json etc.
+
 </p>
 @endsection
