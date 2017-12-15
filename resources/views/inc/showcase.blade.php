@@ -1,6 +1,6 @@
 <div class="jumbotron test-center">
 	<div class="container">
-    <h1>Welcome To Our Site</h1>
-    <p class=lead>Welcome to our Laravel 5.5 powered website.</p>
+    <h1>Welcome To Donnert.us</h1>
+    <p class=lead>This site was devoloped using Laravel 5.5, Mysql and Maria.db</p>
 	</div>
 </div>
