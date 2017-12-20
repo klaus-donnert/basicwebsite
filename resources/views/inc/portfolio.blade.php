@@ -7,6 +7,12 @@
 
             </a>
         </div>
+        <div class="col-xs-12 col-md-8" title="A simple photo gallery using Laravel 5.5 and mysql">
+            <a target="_blank" href="https://photoshow.donnert.us/">
+                <img class="thumbnail" width="200" src="images/photoshow.png" alt="a photo album">
+
+            </a>
+        </div>
         <div class="col-xs-12 col-md-8"></div>
     </div>
 
