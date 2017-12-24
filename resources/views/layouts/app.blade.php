@@ -25,6 +25,7 @@
         </div-->
     </div>
 </div>
+<br>
 <footer id="footer" class="text-center">
     <p>Copyright 2017 &copy; Klaus Donnert</p>
 </footer>
