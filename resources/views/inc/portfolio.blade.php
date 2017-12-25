@@ -4,6 +4,7 @@
 <h3 class="text-center">Portfolio</h3>
 <div class="container">
     <div class="row">
+
         <div class="col-sm">
             <div class="card boxshadow" style="width: 14rem;">
                 <a href="https://todolist.donnert.us/">
@@ -46,6 +47,27 @@
                 </div>
             </div>
         </div>
+        
+    </div>
+
+    <br>
+    <div class="row">
+
+        <div class="col-sm">
+            <div class="card boxshadow" style="width: 14rem;">
+                <a href="https://klaus-donnert.github.io/itemapi/">
+                    <img class="card-img-top" src="images/itemapi.png"
+                         alt="A simple API">
+                </a>
+                <div class="card-body">
+                    <h4 class="card-title">Item API</h4>
+                    <p class="card-text">A simple API that could also be a todo list
+                    </p>
+                    <a href="https://klaus-donnert.github.io/itemapi/" class="btn btn-primary">Visit Site</a>
+                </div>
+            </div>
+        </div>
+
     </div>
 
 </div>
