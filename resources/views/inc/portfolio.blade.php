@@ -42,6 +42,8 @@
                 <div class="card-body">
                     <h4 class="card-title">Photo Show</h4>
                     <p class="card-text">A photo album site using Laravel 5.5 and Foundation 6.3
+                        <br>
+                        <br>
                     </p>
                     <a href="https://photoshow.donnert.us/" class="btn btn-primary">Visit Site</a>
                 </div>
