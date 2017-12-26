@@ -33,6 +33,7 @@
             </div>
         </div>
 
+
         <div class="col-sm">
             <div class="card boxshadow" style="width: 14rem;">
                 <a href="https://photoshow.donnert.us/">
@@ -49,7 +50,7 @@
                 </div>
             </div>
         </div>
-        
+
     </div>
 
     <br>
@@ -66,6 +67,36 @@
                     <p class="card-text">A simple API that could also be a todo list
                     </p>
                     <a href="https://klaus-donnert.github.io/itemapi/" class="btn btn-primary">Visit Site</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm">
+            <div class="card boxshadow" style="width: 14rem;">
+                <a href="https://twitter.donnert.us/">
+                    <img class="card-img-top" src="images/twitter.png"
+                         alt="An example use of the Twitter API">
+                </a>
+                <div class="card-body">
+                    <h4 class="card-title">Twitter API</h4>
+                    <p class="card-text">Example of using the Twitter API
+                    </p>
+                    <a href="https://twitter.donnert.us/" class="btn btn-primary">Visit Site</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm">
+            <div class="card boxshadow" style="width: 14rem;">
+                <a href="https://placeholder.donnert.us/">
+                    <img class="card-img-top" src="images/placeholder.png"
+                         alt="A Placeholder">
+                </a>
+                <div class="card-body">
+                    <h4 class="card-title">Placeholder</h4>
+                    <p class="card-text">Placeholder
+                    </p>
+                    <a href="https://placeholder.donnert.us/" class="btn btn-primary">Visit Site</a>
                 </div>
             </div>
         </div>
