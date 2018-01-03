@@ -1,7 +1,7 @@
 <style>
 
 </style>
-<h3 class="text-center">Portfolio</h3>
+<h3 class="text-center">Recent Projects</h3>
 <div class="container">
 
     <div class="row">
@@ -24,12 +24,12 @@
         <div class="col-sm">
             <div class="card boxshadow" style="width: 14rem;">
                 <a href="https://placeholder.donnert.us/">
-                    <img class="card-img-top" src="images/placeholder.png"
+                    <img class="card-img-top" src="images/idispatcher_gps_logo.png"
                          alt="A Placeholder">
                 </a>
                 <div class="card-body">
-                    <h4 class="card-title">Placeholder</h4>
-                    <p class="card-text">Placeholder
+                    <h4 class="card-title">Mobile GPS</h4>
+                    <p class="card-text">Placeholder (wip)
                     </p>
                     <a href="https://placeholder.donnert.us/" class="btn btn-primary">Visit Site</a>
                 </div>
