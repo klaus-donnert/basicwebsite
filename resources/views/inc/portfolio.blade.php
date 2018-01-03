@@ -23,7 +23,7 @@
 
         <div class="col-sm">
             <div class="card boxshadow" style="width: 14rem;">
-                <a href="https://placeholder.donnert.us/">
+                <a href="https://donnert.us/idispatcher">
                     <img class="card-img-top" src="images/idispatcher_gps_logo.png"
                          alt="A Placeholder">
                 </a>
@@ -38,7 +38,7 @@
 
         <div class="col-sm">
             <div class="card boxshadow" style="width: 14rem;">
-                <a href="https://placeholder.donnert.us/">
+                <a href="https://donnert.us/idispatcher">
                     <img class="card-img-top" src="images/placeholder.png"
                          alt="A Placeholder">
                 </a>
