@@ -31,14 +31,14 @@
                     <h4 class="card-title">Mobile GPS</h4>
                     <p class="card-text">Placeholder (wip)
                     </p>
-                    <a href="https://placeholder.donnert.us/" class="btn btn-primary">Visit Site</a>
+                    <a href="https://donnert.us/idispatcher" class="btn btn-primary">Visit Site</a>
                 </div>
             </div>
         </div>
 
         <div class="col-sm">
             <div class="card boxshadow" style="width: 14rem;">
-                <a href="https://donnert.us/idispatcher">
+                <a href="https://placeholder.donnert.us/">
                     <img class="card-img-top" src="images/placeholder.png"
                          alt="A Placeholder">
                 </a>
