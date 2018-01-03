@@ -3,6 +3,57 @@
 </style>
 <h3 class="text-center">Portfolio</h3>
 <div class="container">
+
+    <div class="row">
+
+        <div class="col-sm">
+            <div class="card boxshadow" style="width: 14rem;">
+                <a href="https://yc.idispatcher.net/map/mapbox.php?avt=true&simm=true">
+                    <img class="card-img-top" src="images/gps_map.png"
+                         alt="A GPS Map">
+                </a>
+                <div class="card-body">
+                    <h4 class="card-title">GPS Map</h4>
+                    <p class="card-text">A map containing the simulated locations of taxicabs. Built using Mapbox and Leaflet
+                    </p>
+                    <a href="https://yc.idispatcher.net/map/mapbox.php?avt=true&simm=true" class="btn btn-primary">Visit Site</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm">
+            <div class="card boxshadow" style="width: 14rem;">
+                <a href="https://placeholder.donnert.us/">
+                    <img class="card-img-top" src="images/placeholder.png"
+                         alt="A Placeholder">
+                </a>
+                <div class="card-body">
+                    <h4 class="card-title">Placeholder</h4>
+                    <p class="card-text">Placeholder
+                    </p>
+                    <a href="https://placeholder.donnert.us/" class="btn btn-primary">Visit Site</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm">
+            <div class="card boxshadow" style="width: 14rem;">
+                <a href="https://placeholder.donnert.us/">
+                    <img class="card-img-top" src="images/placeholder.png"
+                         alt="A Placeholder">
+                </a>
+                <div class="card-body">
+                    <h4 class="card-title">Placeholder</h4>
+                    <p class="card-text">Placeholder
+                    </p>
+                    <a href="https://placeholder.donnert.us/" class="btn btn-primary">Visit Site</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <br>
     <div class="row">
 
         <div class="col-sm">
