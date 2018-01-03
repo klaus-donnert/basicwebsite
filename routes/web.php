@@ -17,6 +17,8 @@ Route::get('/about', 'PagesController@getAbout');
 
 Route::get('/contact', 'PagesController@getContact');
 
+Route::get('/idispatcher', 'PagesController@getIdispatcher');
+
 Route::post('/contact/submit', 'MessagesController@submit');
 
 Route::get('/messages', 'MessagesController@getMessages');
