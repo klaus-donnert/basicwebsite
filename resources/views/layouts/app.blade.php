@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+<?php
+$year = new dateTime(); // for copyright
+$year = $year->format("Y");
+?><!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -27,7 +30,7 @@
 </div>
 <br>
 <footer id="footer" class="text-center">
-    <p>Copyright 2017 &copy; Klaus Donnert</p>
+    <p>Copyright 2017 - {{$year}} &copy; Klaus Donnert</p>
 </footer>
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
