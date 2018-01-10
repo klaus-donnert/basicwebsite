@@ -23,7 +23,7 @@
 
         <div class="col-sm">
             <div class="card boxshadow" style="width: 14rem;">
-                <a href="https://donnert.us/idispatcher">
+                <a href="/idispatcher">
                     <img class="card-img-top" src="images/idispatcher_gps_logo.png"
                          alt="A Placeholder">
                 </a>
@@ -31,7 +31,7 @@
                     <h4 class="card-title">Mobile GPS</h4>
                     <p class="card-text">Placeholder (wip)
                     </p>
-                    <a href="https://donnert.us/idispatcher" class="btn btn-primary">Visit Site</a>
+                    <a href="/idispatcher" class="btn btn-primary">Visit Site</a>
                 </div>
             </div>
         </div>
