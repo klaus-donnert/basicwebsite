@@ -25,7 +25,7 @@
             <div class="card boxshadow" style="width: 14rem;">
                 <a href="/idispatcher">
                     <img class="card-img-top" src="images/idispatcher_gps_logo.png"
-                         alt="A Placeholder">
+                                                  alt="A Placeholder">
                 </a>
                 <div class="card-body">
                     <h4 class="card-title">Mobile GPS</h4>
