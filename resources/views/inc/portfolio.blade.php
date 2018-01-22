@@ -29,7 +29,7 @@
                 </a>
                 <div class="card-body">
                     <h4 class="card-title">Mobile GPS</h4>
-                    <p class="card-text">This is the mobile app that puts the cars on the GPS map.
+                    <p class="card-text">This is the mobile app that puts the cars on the GPS map.<br><br><br>
                     </p>
                     <a href="/idispatcher" class="btn btn-primary">Visit Site</a>
                 </div>
