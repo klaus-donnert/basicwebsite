@@ -2,6 +2,9 @@
 .pad-bot{
     padding-bottom: 20px;
 }
+.card{
+    height: 500px;
+    }
 </style>
 <h3 class="text-center">Recent Projects</h3>
 <div class="container">
@@ -41,13 +44,14 @@
 
         <div class="col-sm pad-bot">
             <div class="card boxshadow" style="width: 14rem;">
-                <a href="https://twitter.donnert.us/">
-                    <img class="card-img-top" src="images/twitter.png"
-                         alt="An example use of the Twitter API">
+                <a href="https://bootstrap3.donnert.us/">
+                    <img class="card-img-top" src="images/placeholder.png"
+                         alt="A Placeholder">
                 </a>
                 <div class="card-body">
-                    <h4 class="card-title">Twitter API</h4>
-                    <p class="card-text">Example of using the Twitter API
+                    <h4 class="card-title">Bootstrap 3</h4>
+                    <p class="card-text">This is a Bootstrap 3 template
+                        that uses a custom palette.
                     </p>
 
                 </div>
@@ -126,13 +130,13 @@
 
         <div class="col-sm pad-bot">
             <div class="card boxshadow" style="width: 14rem;">
-                <a href="https://placeholder.donnert.us/">
-                    <img class="card-img-top" src="images/placeholder.png"
-                         alt="A Placeholder">
+                <a href="https://twitter.donnert.us/">
+                    <img class="card-img-top" src="images/twitter.png"
+                         alt="An example use of the Twitter API">
                 </a>
                 <div class="card-body">
-                    <h4 class="card-title">Placeholder</h4>
-                    <p class="card-text">Placeholder
+                    <h4 class="card-title">Twitter API</h4>
+                    <p class="card-text">Example of using the Twitter API
                     </p>
 
                 </div>
