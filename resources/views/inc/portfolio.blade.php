@@ -45,7 +45,7 @@
         <div class="col-sm pad-bot">
             <div class="card boxshadow" style="width: 14rem;">
                 <a href="https://bootstrap3.donnert.us/">
-                    <img class="card-img-top" src="images/placeholder.png"
+                    <img class="card-img-top" src="images/bootstrap3.png"
                          alt="A Link">
                 </a>
                 <div class="card-body">

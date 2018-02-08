@@ -6,8 +6,9 @@
     js, vue.js, jquery, php, mysql, sqlite, laravel, and other frameworks and libraries.
     This site is built with Laravel 5.5 on a small LEMP server hosted in the cloud at Digitalocean.
     I'm using Laravel Forge to automatically pull updates from Github, run Composer and Artisan whenever a push to master occurs.
-    The source code is located at
+    This is still a work in progress. The source code for this and other projects is located at
     <a href="https://github.com/klaus-donnert/basicwebsite">https://github.com/klaus-donnert/basicwebsite</a>.</p>
+    <p>Click on the images to visit the sites.</p>
 
     @include('inc.portfolio')
 @endsection
